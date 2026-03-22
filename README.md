@@ -1,4 +1,4 @@
-# Simulación de Halo de Materia Oscura - Análisis Numérico
+# Simulación de Halo de Materia Oscura 
 
 Este repositorio contiene la implementación de una simulación numérica diseñada para generar las condiciones iniciales (posiciones y velocidades) de un **Halo de Materia Oscura**. El proyecto utiliza perfiles de densidad específicos y métodos de muestreo estadístico para modelar la distribución de masa y la dinámica galáctica de forma físicamente consistente.
 
